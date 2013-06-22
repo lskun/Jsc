@@ -1,5 +1,10 @@
 *.class
+.myeclipse/
+.settings/
 
+.classpath
+.project
+META-INF/
 # Package Files #
 *.jar
 *.war
